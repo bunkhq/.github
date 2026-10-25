@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: Security vulnerability
-    url: https://github.com/Project-Bunk/.github/blob/main/SECURITY.md
+    url: https://github.com/bunkhq/.github/blob/main/SECURITY.md
     about: Report vulnerabilities privately, not as an issue.
